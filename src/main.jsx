@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { WheaterApp } from './wheaterApp'
-import './styles/wheaterStyles.css'
+import './styles/wheaterApp.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
